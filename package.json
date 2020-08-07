@@ -14,7 +14,9 @@
     "start": "react-scripts start",
     "start-ts": "react-app-rewired start",
     "build": "react-scripts build",
+    "build-ts": "react-app-rewired build --scripts-version react-scripts-ts",
     "test": "react-scripts test",
+    "test-ts": "react-app-rewired test --scripts-version react-scripts-ts",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
